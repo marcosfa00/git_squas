@@ -6,3 +6,5 @@ desde aquí haremos el primero y segundo commit A y B después de esto será cua
     Colaborador
     Lider
     * Main
+
+En el segundo commit añado un comentario
