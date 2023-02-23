@@ -8,3 +8,5 @@ añadimso un comentario y modificamos también este mismo Readme
       Lider
 
 hacemos el primer commit, y ahora opasamo ha hacer otro cambio y hacer el segundo
+
+Tras hacer esto procedemos al tercer cambio de la rama colaborador
