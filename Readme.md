@@ -1,12 +1,8 @@
-# GIT SQUASH RAMA COLABORADOR
+# GIT SQUASH RAMA LIDER
 
-Estamos en la rama Colaborador, aquí hemos creado una nueva clase desde la cual
-añadimso un comentario y modificamos también este mismo Readme
+Estamos en la rama LIDER y procedemos ha crear una clase nueva y hacer el primer cambio
 
       Main 
-    * Colaborador
-      Lider
+      Colaborador
+    * Lider
 
-hacemos el primer commit, y ahora opasamo ha hacer otro cambio y hacer el segundo
-
-Tras hacer esto procedemos al tercer cambio de la rama colaborador
