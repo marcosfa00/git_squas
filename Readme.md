@@ -6,3 +6,5 @@ añadimso un comentario y modificamos también este mismo Readme
       Main 
     * Colaborador
       Lider
+
+hacemos el primer commit, y ahora opasamo ha hacer otro cambio y hacer el segundo
